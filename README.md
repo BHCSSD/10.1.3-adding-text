@@ -17,7 +17,7 @@
   9. add `fill(r,g,b)` change the colour of the text only
       
 ## Part 2: some problem solving 70%
-  10. inside of your `text()` chang your number for the x value to the variable `textX` (this was set on line 1 of the code, it is a variable)
+  10. inside of your `text()` change your number for the x value to the variable `textX` (this was set on line 1 of the code, it is a variable)
   11. with the idea that `textX` is a variable and can be changed, how can you make the text scoot off the screen? hint: start with a new line `textX = textX` and use this to change the x value using grade 1 math.
   12. I was going to put the answer to #8 here, but I decided to be a bit mean... good luck
 
