@@ -23,7 +23,7 @@
 
 ## Part 3: more advanced problem solving 90%
   13. to reset the `text()` back to the other side of your screen, you need an if statement. Copy and paste time:
-```    
+```javaScript   
   if (   textX < -250     ){ // you will need to edit the. If your x is __________ 
     textX=500;// reset the `textX` to a new position
     print("too far to the right");
@@ -38,7 +38,7 @@
 
 
 ## starter code
-```
+```javaScript
 let textX = 250;
 
 function setup() {
@@ -50,12 +50,6 @@ function draw() {
   background(255);
 
 }
-```
-
-
-
-
-```
 //reminder on how to draw different things
 //  text("WORD",x,y)
 //  fill(r,g,b);
